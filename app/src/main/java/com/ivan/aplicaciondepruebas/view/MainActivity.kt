@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
             checkCameraPermission()
 
         }
-
+        // :)
     }
 
     private fun checkCameraPermission() {
